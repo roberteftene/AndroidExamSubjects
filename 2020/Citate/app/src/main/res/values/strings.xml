@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Citate</string>
+    <string name="menu_item_one">Adaugare Citat</string>
+    <string name="menu_item_two">Sincronizare retea</string>
+    <string name="introducere_citat">Introducere citat</string>
+    <string name="enter_autor">Enter autor</string>
+    <string name="enter_citat">Enter citat</string>
+    <string name="enter_numar_aprecieri">Enter numar aprecieri</string>
+    <string name="adaugare_citat">Salvare Citat</string>
+    <string name="sterge_acest_citat">Sterge acest citat</string>
+    <string-array name="filterCitate">
+        <item>T-toate</item>
+        <item>F-familie</item>
+        <item>S-sport</item>
+        <item>F-filozofie</item>
+        <item>M-motivationale</item>
+    </string-array>
+</resources>
