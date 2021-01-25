@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Livrare</string>
+    <string name="introduction_text">Introduction text</string>
+    <string name="adauga_livrare">Adauga livrare</string>
+    <string name="istoric_livrari">Istoric livrari</string>
+    <string name="import_date">Import date</string>
+    <string name="despre">Despre</string>
+    <string name="enter_livare_details">Enter livare details</string>
+    <string name="destinatar">Destinatar</string>
+    <string name="adresa">Adresa</string>
+    <string name="valoare">Valoare</string>
+    <string name="adauga_livrare_form">Adauga Livrare</string>
+    <string name="sterge_livrare">Sterge livrare</string>
+    <string-array name="tip">
+        <item>fragil</item>
+        <item>normal</item>
+        <item>dur</item>
+    </string-array>
+</resources>
