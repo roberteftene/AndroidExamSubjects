@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GestiuneObiecteInventar</string>
+    <string name="introduction_text">Hello World!</string>
+    <string name="adauga_obiect_inventar">Adauga obiect inventar</string>
+    <string name="lista_obiecte_inventar">Lista obiecte inventar</string>
+    <string name="sincronizare_retea">Sincronizare retea</string>
+    <string name="grafic">Grafic</string>
+    <string name="despre">Despre</string>
+    <string name="numar_inventar">Numar Inventar</string>
+    <string name="valoare">Valoare</string>
+    <string name="adauga_obiect">Adauga Obiect</string>
+    <string name="sterge_obiectul">Sterge obiectul</string>
+    <string name="sorteaza_obiecte">Sorteaza obiecte</string>
+    <string-array name="uzura">
+        <item>mica</item>
+        <item>medie</item>
+        <item>mare</item>
+    </string-array>
+</resources>
