@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ReteteCulinare</string>
+    <string name="adaugare_reteta">Adaugare Reteta</string>
+    <string name="sincronizare">Sincronizare</string>
+    <string name="despre_aplicatie">Despre aplicatie</string>
+    <string name="denumire">Denumire</string>
+    <string name="descriere_reteta">Descriere</string>
+    <string name="numar_calorii">Numar calorii</string>
+    <string name="adauga_reteta">Adauga reteta</string>
+    <string name="sterge_reteta">Sterge reteta</string>
+    <string-array name="categorie">
+        <item>ciorbe</item>
+        <item>gustari</item>
+        <item>dulciuri</item>
+        <item>felPrincipal</item>
+    </string-array>
+</resources>
