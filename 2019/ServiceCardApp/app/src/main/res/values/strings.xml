@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ServiceCardApp</string>
+    <string name="add_card">Add service card</string>
+    <string name="service_card_list">Service Card List</string>
+    <string name="save_cards">Save cards</string>
+    <string name="download_service_cards">Download service cards</string>
+    <string name="statistics">Statistics</string>
+    <string name="service_number">Service number</string>
+    <string name="service_cost">Service Cost</string>
+    <string name="add_service_card">Add service card</string>
+    <string-array name="serviceDepartmnet">
+        <item>electrical</item>
+        <item>mechanical</item>
+    </string-array>
+</resources>
