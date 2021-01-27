@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/addCurs"
+        android:title="@string/adauga_curs"/>
+
+    <item android:id="@+id/syncRetea"
+        android:title="@string/sincronizare_retea"/>
+
+    <item android:id="@+id/grafic"
+        android:title="@string/grafic"/>
+
+    <item   android:id="@+id/database"
+        android:title="@string/backup"/>
+</menu>

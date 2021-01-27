@@ -1,3 +1,12 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">Curs</string>
+    <string name="adauga_curs">Adauga Curs</string>
+    <string name="sincronizare_retea">Sincronizare Retea</string>
+    <string name="grafic">Grafic</string>
+    <string name="denumire_curs">Denumire curs</string>
+    <string name="nuamr_participanti">Nuamr participanti</string>
+    <string name="sala">Sala</string>
+    <string name="nume_profesor">Nume profesor</string>
+    <string name="adauga_curs_acum" tools:ignore="DuplicateDefinition">Adauga Curs</string>
+    <string name="backup">Backup</string>
 </resources>
