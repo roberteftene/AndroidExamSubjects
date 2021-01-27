@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DataPackageApp</string>
+    <string name="send_package">Send Package</string>
+    <string name="package_list">Package List</string>
+    <string name="backup_package">Backup Package</string>
+    <string name="update_packages">Update packages</string>
+    <string name="package_sending_rate">Package sending rate</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude_txt">Longitude</string>
+    <string name="delete_package">Delete Package</string>
+    <string name="send_package_btn">Send package</string>
+    <string-array name="packageType">
+        <item>position</item>
+        <item>state</item>
+    </string-array>
+    <string-array name="packageTypeFilter">
+        <item>All packages</item>
+        <item>State packages</item>
+        <item>Position packages</item>
+    </string-array>
+</resources>
