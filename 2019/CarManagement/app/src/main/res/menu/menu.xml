@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/addCar"
+        android:title="@string/add_car" />
+
+    <item
+        android:id="@+id/listCars"
+        android:title="@string/list_cars" />
+
+    <item
+        android:id="@+id/syncCars"
+        android:title="@string/extract_cars_from_json" />
+
+    <item
+        android:id="@+id/report"
+        android:title="@string/report" />
+    <item
+        android:id="@+id/about"
+        android:title="@string/about" />
+
+</menu>

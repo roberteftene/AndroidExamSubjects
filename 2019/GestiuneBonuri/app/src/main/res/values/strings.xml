@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GestiuneBonuri</string>
+    <string name="adauga_bon">Adauga bon</string>
+    <string name="lista_bonuri">Lista bonuri</string>
+    <string name="preluare_bonuri_din_json">Preluare bonuri din json</string>
+    <string name="obtine_raport">Obtine raport</string>
+    <string name="despre">Despre</string>
+    <string name="numar_bon">Numar bon</string>
+    <string name="ghiseu">Ghiseu</string>
+    <string name="salveaza_in_baza_de_date">Salveaza in baza de date</string>4
+    <string-array name="serviciu">
+        <item>plata</item>
+        <item>abonament</item>
+        <item>achizitie</item>
+    </string-array>
+</resources>

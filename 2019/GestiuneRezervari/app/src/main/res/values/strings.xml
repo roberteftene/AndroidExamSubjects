@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GestiuneRezervari</string>
+    <string name="adauga_rezervare">Adauga rezervare</string>
+    <string name="preluare_rezervari_online">Preluare rezervari online</string>
+    <string name="salvare_in_baza_de_date">Salvare in baza de date</string>
+    <string name="grafic">Grafic</string>
+    <string name="despre">Despre</string>
+    <string name="nume_client">Nume client</string>
+    <string name="suma_plata">Suma plata</string>
+    <string name="durata_sejur">Durata sejur</string>
+    <string-array name="tipCameraArray">
+        <item>S</item>
+        <item>D</item>
+    </string-array>
+    <string name="adauga_rezervare_btn_from">Adauga rezervare</string>
+</resources>

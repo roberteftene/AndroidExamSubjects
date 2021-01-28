@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CarManagement</string>
+    <string name="list_cars">List cars</string>
+    <string name="add_car">Add car</string>
+    <string name="report">Report</string>
+    <string name="about">About</string>
+    <string name="extract_cars_from_json">Extract cars from JSON</string>
+    <string name="authorName">Robert Eftene</string>
+    <string name="car_number">Car number</string>
+    <string name="parking_id_position">Parking id position</string>
+    <string name="payed">Payed</string>
+    <string name="add_the_car">Add the car</string>
+</resources>
