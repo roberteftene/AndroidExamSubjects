@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GestiuneExamene</string>
+    <string name="adaugare_examen">Adaugare Examen</string>
+    <string name="sincronizare_retea">Sincronizare retea</string>
+    <string name="grafic">Grafic</string>
+    <string name="denumire_materie">Denumire Materie</string>
+    <string name="numar_studenti">Numar studenti</string>
+    <string name="supraveghetor">Supraveghetor</string>
+    <string name="sala">Sala</string>
+    <string name="adauga_examen">Adauga examen</string>
+    <string name="backup">Backup</string>
+</resources>
