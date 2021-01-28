@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GestiuneJucatori</string>
+    <string name="sincronizare_retea">Sincronizare Retea</string>
+    <string name="adauga_jucator">Adauga jucator</string>
+    <string name="numar_jucator">Numar jucator</string>
+    <string name="nume_jucator">Nume jucator</string>
+    <string name="adaugaJucatBtn">Adauga jucator</string>
+    <string name="backup">Backup</string>
+    <string name="grafic">Grafic</string>
+
+    <string-array name="pozitieJucator">
+        <item>portar</item>
+        <item>fundas</item>
+        <item>mijlocas</item>
+        <item>atacant</item>
+    </string-array>
+</resources>
