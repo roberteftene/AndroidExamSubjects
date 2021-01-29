@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GestiuneProiecteDePractica</string>
+    <string name="add_proiect_nou">Add proiect nou</string>
+    <string name="titlu_proiect">Titlu proiect</string>
+    <string name="porfesor_coordonator">Porfesor coordonator</string>
+    <string name="sunt_angajat">Sunt angajat</string>
+    <string name="grad_de_completare">Grad de completare</string>
+    <string name="add_proiect">Add proiect</string>
+    <string name="titlu_item">Titlu</string>
+    <string name="nume_prof">Nume prof</string>
+    <string name="grad_de_completare_proiect">Grad de completare proiect</string>
+    <string name="editare">Editare</string>
+    <string name="clasificare">Clasificare</string>
+    <string-array name="filterProiecte">
+        <item>Toate</item>
+        <item>Angajati</item>
+        <item>Aproape gata</item>
+    </string-array>
+</resources>
