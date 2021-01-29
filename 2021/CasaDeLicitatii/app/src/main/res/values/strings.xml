@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CasaDeLicitatii</string>
+    <string name="descriere">Descriere</string>
+    <string name="valoare">Valoare</string>
+    <string name="cash">Cash</string>
+    <string name="card">Card</string>
+    <string name="adauga_licitatie_noua">Adauga licitatie noua</string>
+    <string name="sortare">Sortare</string>
+    <string name="save">Save</string>
+    <string-array name="categ">
+        <item>6/49</item>
+        <item>bingo</item>
+    </string-array>
+    <string-array name="filterCateg">
+        <item>Toate</item>
+        <item>6/49</item>
+        <item>bingo</item>
+    </string-array>
+</resources>

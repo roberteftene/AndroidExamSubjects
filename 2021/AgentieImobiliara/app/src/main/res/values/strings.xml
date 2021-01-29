@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AgentieImobiliara</string>
+    <string name="adauga_imobil">Adauga Imobil</string>
+    <string name="imobil_number">Imobil number</string>
+    <string name="este_disponibil">Este disponibil?</string>
+    <string-array name="imobilCateg">
+        <item>Apartament</item>
+        <item>Casa</item>
+    </string-array>
+    <string name="adresa_imobil">Adresa imobil</string>
+    <string name="save_imobile">Save imobile</string>
+</resources>
