@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:descendantFocusability="blocksDescendants">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/locatie_vancanta"
+        android:id="@+id/locatieTxtItem"
+        android:focusable="false"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/cheltuiala_totala"
+        android:id="@+id/cheltuialaTxtItem"
+        android:focusable="false"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/am_fost_deja"
+        android:id="@+id/isVisitedTxtItem"
+        android:focusable="false"/>
+
+    <Switch
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/switchItem"
+        tools:ignore="UseSwitchCompatOrMaterialXml"
+        android:enabled="true"/>
+
+
+</LinearLayout>

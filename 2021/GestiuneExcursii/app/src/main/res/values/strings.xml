@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GestiuneExcursii</string>
+    <string name="add_excursie">Add excursie</string>
+    <string name="locatie">Locatie</string>
+    <string name="valoare">Valoare</string>
+    <string name="vizitat_deja">Vizitat deja</string>
+    <string name="add_excursie_new">Add excursie new</string>
+    <string name="prioritate">Prioritate</string>
+    <string name="am_fost_deja">Am fost deja</string>
+    <string name="cheltuiala_totala">Cheltuiala totala</string>
+    <string name="locatie_vancanta">Locatie vancanta</string>
+</resources>

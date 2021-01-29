@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AddExcursie">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:orientation="vertical">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/locatie"
+            android:id="@+id/locatieTxt"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/valoare"
+            android:inputType="number"
+            android:id="@+id/cheltuialaTxt"/>
+
+        <DatePicker
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:datePickerMode="spinner"
+            android:calendarViewShown="false"
+            android:id="@+id/dataPlecare"/>
+
+        <SeekBar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/prioritate"/>
+
+        <CheckBox
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/vizitat_deja"
+            android:id="@+id/checkVisited"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/add_excursie_new"
+            android:id="@+id/addExcursieBtnForm"/>
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
