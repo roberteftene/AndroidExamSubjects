@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ColectionariTimbre</string>
+    <string name="sterge_filtrele">Sterge filtrele</string>
+    <string name="sterge_tot">Sterge tot</string>
+    <string name="adauga_timbru">Adauga Timbru</string>
+    <string name="numar_timbru">Valoare timbru</string>
+    <string name="cu_adeziv">Cu adeziv?</string>
+    <string name="gradul_de_degradare">Gradul de degradare</string>
+    <string name="save_filtre">Save filtre</string>
+    <string name="enter_filters">Enter filters</string>
+
+    <string-array name="filterCateg">
+        <item>forma</item>
+        <item>valoare</item>
+        <item>CuAdeziv</item>
+    </string-array>
+</resources>

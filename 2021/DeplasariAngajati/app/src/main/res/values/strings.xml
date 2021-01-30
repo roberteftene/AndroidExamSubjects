@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DeplasariAngajati</string>
+    <string name="nume_angajat">Nume angajat</string>
+    <string name="durata_deplasare">Durata deplasare</string>
+    <string name="masina_firma">Masina firma</string>
+    <string name="transport_comun_decontat">Transport Comun decontat</string>
+    <string name="adauga_deplasare">Adauga deplasare</string>
+    <string name="value">Value</string>
+
+    <string-array name="motivareCateg">
+        <item>munca</item>
+        <item>personal</item>
+    </string-array>
+</resources>

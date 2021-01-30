@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BugetPersonal</string>
+    <string name="cauta_item">Cauta item</string>
+    <string name="sterge_item_cautat">Sterge item cautat</string>
+    <string name="dublica_element_cautat">Dublica element cautat</string>
+    <string name="add_depozit">Add depozit</string>
+    <string name="nume_depozit">Nume depozit</string>
+    <string name="suma_initiala">Suma initiala</string>
+    <string name="este_economie">Este economie</string>
+
+    <string-array name="valutaCateg">
+        <item>Euro</item>
+        <item>Lei</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
