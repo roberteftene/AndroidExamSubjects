@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/barChart"
+        android:title="@string/barchart"/>
+
+    <item android:id="@+id/pieChart"
+        android:title="@string/piechart"/>
+
+    <item android:id="@+id/saveTxt"
+        android:title="@string/save_to_txt"/>
+
+    <item android:id="@+id/saveToSharedPrefs"
+        android:title="@string/save_into_shared_prefs"/>
+
+</menu>

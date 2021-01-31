@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Magazin</string>
+    <string name="add_product">Add product</string>
+    <string name="invers_alfabetic">Invers alfabetic</string>
+    <string name="alfabetic">Alfabetic</string>
+    <string name="crescator_dupa_camp_numeric">Crescator dupa camp numeric</string>
+    <string name="descrescator_dupa_camp_numeric">Descrescator dupa camp numeric</string>
+    <string name="a_z_si_crescator"><![CDATA[A->Z si Crescator]]></string>
+    <string name="a_z_si_descrescator">A-Z si Descrescator</string>
+    <string name="pret">Pret</string>
+    <string name="nume_produs">Nume produs</string>
+    <string name="rating_ul_produsului">Rating ul produsului</string>
+    <string name="oferta">Oferta</string>
+    <string name="search">Search</string>
+
+    <string-array name="categProdus">
+        <item>lactate</item>
+        <item>mezeluri</item>
+        <item>carne</item>
+    </string-array>
+</resources>

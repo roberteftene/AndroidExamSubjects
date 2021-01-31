@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TargAuto</string>
+    <string name="adauga_masina">Adauga masina</string>
+    <string name="marca">Marca</string>
+    <string name="placuta">Placuta</string>
+    <string name="rating_masina">Rating masina</string>
+    <string name="pret_masina">Pret masina</string>
+    <string name="pret_negociabil">Pret negociabil</string>
+    <string name="ron">ron</string>
+    <string name="euro">euro</string>
+    <string name="stare_masina">Stare masina</string>
+
+    <string-array name="categMasina">
+        <item>sedan</item>
+        <item>coupe</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="barchart">Barchart</string>
+    <string name="piechart">Piechart</string>
+    <string name="save_to_txt">Save to txt</string>
+    <string name="save_into_shared_prefs">Save into shared prefs</string>
+    <string name="coupe">Coupe</string>
+    <string name="sedan">Sedan</string>
+</resources>
